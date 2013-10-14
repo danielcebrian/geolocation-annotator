@@ -20,8 +20,7 @@ http://danielcebrian.com/geolocation-annotation/demo.html
 
 To use the tool you need to install the [Annotator plugin](https://github.com/okfn/annotator/) to annotate text. 
 
-In addition add geolocation-annotator.min.js and geolocation-annotator.min.css CDN distributed file to your head tag, just after
-videojs:
+In addition add geolocation-annotator.min.js and geolocation-annotator.min.css CDN distributed file to your head tag:
 
 ```html
 	<head>
